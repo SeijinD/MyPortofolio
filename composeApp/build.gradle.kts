@@ -118,3 +118,9 @@ compose.desktop {
         }
     }
 }
+
+compose.resources {
+    publicResClass = true
+    packageOfResClass = "com.seijind.myportofolio.resources."
+    generateResClass = always
+}
